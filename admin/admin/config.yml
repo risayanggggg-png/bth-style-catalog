@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: USERNAME_GITHUB_KAMU/NAMA_REPOSITORY_KAMU
   branch: main
 
 media_folder: "images"
